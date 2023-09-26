@@ -19,3 +19,9 @@
 <p> Desenvolvimento Web - Full Stack <p/>
 <p> Delphi <p/>
 <p> Angular <p/>
+
+## Experiências:
+<h2>Desenvolvedor de Software com as tecnologias: <h2/>
+<p> JavaScript/Jquery <p/>
+<p> C#<p/>
+<p> BootStrap <p/>
